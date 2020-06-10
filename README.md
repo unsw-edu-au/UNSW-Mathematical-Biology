@@ -1,5 +1,5 @@
 # UNSW-Mathematical-Biology
-HIVTools
+HIVTools (NGlyAlign)
 #################################
 # Files description
 #################################
